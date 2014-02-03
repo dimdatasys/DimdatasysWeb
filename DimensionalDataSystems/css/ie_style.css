@@ -1,0 +1,14 @@
+.extra-wrap {zoom:1;}
+
+a.nocolor,.nocolor a{
+	//color:expression(this.parentNode.currentStyle.color);
+}
+
+a.button{
+	behavior:url(js/PIE.htc);
+	z-index:1;
+}
+
+.forum td{
+	border:1px #fff solid;
+}

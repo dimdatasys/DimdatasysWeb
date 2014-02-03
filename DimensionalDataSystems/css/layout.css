@@ -1,0 +1,27 @@
+/*======= index.html =======*/
+#page1 .colum{width:320px; float:left;}
+#page1 .colum.pr{margin-right:10px;}
+
+/*======= index-1.html =======*/
+#page2 .col-1{width:264px;}
+#page2 .col-2{width:264px;}
+#page2 .col-3{width:210px;}
+
+/*======= index-2.html =======*/
+#page3 .col-1{width:250px;}
+#page3 .col-2{width:270px;}
+#page3 .col-3{width:260px;}
+
+/*======= index-3.html =======*/
+#page4 .col-1{width:260px;}
+#page4 .col-2{width:580px;}
+
+#page4 img.pr{margin-right:40px; float:left;}
+
+/*======= index-4.html =======*/
+#page5 .col-1{width:260px;}
+#page5 .col-2{width:260px;}
+#page5 .col-3{width:224px;}
+/*=========================*/
+
+
