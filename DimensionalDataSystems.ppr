@@ -1,0 +1,121 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultDir=C:\Users\Micaden\Documents\GitHub\DimdatasysWeb\DimensionalDataSystems
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+DimensionalDataSystems
+	+DimensionalDataSystems
+		-_vti_cnf
+			DimensionalDataSystems\_vti_cnf\index.html
+		-_vti_pvt
+			DimensionalDataSystems\_vti_pvt\botinfs.cnf
+			DimensionalDataSystems\_vti_pvt\bots.cnf
+			DimensionalDataSystems\_vti_pvt\deptodoc.btr
+			DimensionalDataSystems\_vti_pvt\doctodep.btr
+			DimensionalDataSystems\_vti_pvt\fpdbw.ico
+			DimensionalDataSystems\_vti_pvt\linkinfo.btr
+			DimensionalDataSystems\_vti_pvt\service.cnf
+			DimensionalDataSystems\_vti_pvt\service.lck
+			DimensionalDataSystems\_vti_pvt\services.cnf
+			DimensionalDataSystems\_vti_pvt\structure.cnf
+			DimensionalDataSystems\_vti_pvt\writeto.cnf
+		-css
+			-_vti_cnf
+				DimensionalDataSystems\css\_vti_cnf\ie_style.css
+				DimensionalDataSystems\css\_vti_cnf\layout.css
+				DimensionalDataSystems\css\_vti_cnf\style.css
+			DimensionalDataSystems\css\ie_style.css
+			DimensionalDataSystems\css\layout.css
+			DimensionalDataSystems\css\style.css
+		-images
+			-_vti_cnf
+				DimensionalDataSystems\images\_vti_cnf\button-bg.png
+				DimensionalDataSystems\images\_vti_cnf\content-bg.png
+				DimensionalDataSystems\images\_vti_cnf\footer-bg.png
+				DimensionalDataSystems\images\_vti_cnf\g-border.png
+				DimensionalDataSystems\images\_vti_cnf\header-bg.png
+				DimensionalDataSystems\images\_vti_cnf\logo1.png
+				DimensionalDataSystems\images\_vti_cnf\logo1old.png
+				DimensionalDataSystems\images\_vti_cnf\logo2.png
+				DimensionalDataSystems\images\_vti_cnf\logo3.png
+				DimensionalDataSystems\images\_vti_cnf\logo4.png
+				DimensionalDataSystems\images\_vti_cnf\logo5.png
+				DimensionalDataSystems\images\_vti_cnf\logo6.png
+				DimensionalDataSystems\images\_vti_cnf\marker1.png
+				DimensionalDataSystems\images\_vti_cnf\marker2.png
+				DimensionalDataSystems\images\_vti_cnf\page1-img1.png
+				DimensionalDataSystems\images\_vti_cnf\page1-img2.png
+				DimensionalDataSystems\images\_vti_cnf\page1-img3.png
+				DimensionalDataSystems\images\_vti_cnf\page2-img1.jpg
+				DimensionalDataSystems\images\_vti_cnf\page3-img1.jpg
+				DimensionalDataSystems\images\_vti_cnf\page3-img2.jpg
+				DimensionalDataSystems\images\_vti_cnf\page4-img1.jpg
+				DimensionalDataSystems\images\_vti_cnf\page4-img2.jpg
+				DimensionalDataSystems\images\_vti_cnf\v_border.png
+			DimensionalDataSystems\images\button-bg.png
+			DimensionalDataSystems\images\content-bg.png
+			DimensionalDataSystems\images\footer-bg.png
+			DimensionalDataSystems\images\g-border.png
+			DimensionalDataSystems\images\header-bg.png
+			DimensionalDataSystems\images\logo1.png
+			DimensionalDataSystems\images\logo1old.png
+			DimensionalDataSystems\images\logo2.png
+			DimensionalDataSystems\images\logo3.png
+			DimensionalDataSystems\images\logo4.png
+			DimensionalDataSystems\images\logo5.png
+			DimensionalDataSystems\images\logo6.png
+			DimensionalDataSystems\images\marker1.png
+			DimensionalDataSystems\images\marker2.png
+			DimensionalDataSystems\images\page1-img1.png
+			DimensionalDataSystems\images\page1-img2.png
+			DimensionalDataSystems\images\page1-img3.png
+			DimensionalDataSystems\images\page2-img1.jpg
+			DimensionalDataSystems\images\page3-img1.jpg
+			DimensionalDataSystems\images\page3-img2.jpg
+			DimensionalDataSystems\images\page4-img1.jpg
+			DimensionalDataSystems\images\page4-img2.jpg
+			DimensionalDataSystems\images\v_border.png
+		-js
+			-_vti_cnf
+				DimensionalDataSystems\js\_vti_cnf\Century_Gothic_400.font.js
+				DimensionalDataSystems\js\_vti_cnf\Century_Gothic_700.font.js
+				DimensionalDataSystems\js\_vti_cnf\clearInput.js
+				DimensionalDataSystems\js\_vti_cnf\cufon-replace.js
+				DimensionalDataSystems\js\_vti_cnf\cufon-yui.js
+				DimensionalDataSystems\js\_vti_cnf\html5.js
+				DimensionalDataSystems\js\_vti_cnf\jquery.color.js
+				DimensionalDataSystems\js\_vti_cnf\jquery.easing.1.3.js
+				DimensionalDataSystems\js\_vti_cnf\jquery-1.4.2.min.js
+				DimensionalDataSystems\js\_vti_cnf\PIE.htc
+				DimensionalDataSystems\js\_vti_cnf\slidePager.js
+			DimensionalDataSystems\js\Century_Gothic_400.font.js
+			DimensionalDataSystems\js\Century_Gothic_700.font.js
+			DimensionalDataSystems\js\clearInput.js
+			DimensionalDataSystems\js\cufon-replace.js
+			DimensionalDataSystems\js\cufon-yui.js
+			DimensionalDataSystems\js\html5.js
+			DimensionalDataSystems\js\jquery.color.js
+			DimensionalDataSystems\js\jquery.easing.1.3.js
+			DimensionalDataSystems\js\jquery-1.4.2.min.js
+			DimensionalDataSystems\js\PIE.htc
+			DimensionalDataSystems\js\slidePager.js
+		-site
+			-_vti_cnf
+		DimensionalDataSystems\desktop.ini
+		DimensionalDataSystems\index.html
+[Open project files]
+0=DimensionalDataSystems\index.html
+[Selected Project Files]
+Main=
+Selected=DimensionalDataSystems\index.html
+[DimensionalDataSystems\index.html]
+TopLine=193
+Caret=16,211
